@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: linear-gradient(120deg, #1a1a2e, #16213e);
+    overflow: hidden;
+  }
+  
+  #canvas3D {
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+  
